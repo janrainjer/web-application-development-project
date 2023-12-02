@@ -16,7 +16,7 @@ Web Application Development Project (01076120), Computer Engineering 60 at KMITL
 - [Source code Frontend](fak-sue-frontend-main)
 
 ## Project UI - Directory
-- [UI Figma](https://www.figma.com/file/XXXLmRFLGNnRk9lKgHx5HK/UI---Web-application-Development-project?type=design&node-id=0%3A1&mode=design&t=q5ae9tSu5UB8ON8O-1)
+- [UI Figma](https://www.figma.com/files/project/173875689/UI---Web-dev-project?fuid=1230092627390613259)
   
 ## Member Group
 - Pannawich Wachinseadhiran
