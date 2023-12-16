@@ -6,7 +6,7 @@
 <img width="500" alt="Desktop" src="https://github.com/janrainjer/web-application-development-project/assets/88389821/a65a899e-40a1-45f3-b36b-23e452f26c1a">
 <img width="500" alt="Desktop" src="https://github.com/janrainjer/web-application-development-project/assets/88389821/43c2569b-d142-4664-b2b7-c924ae5902c4">
 </p>
-
+ 
 # Web Application Development - Project
 Web Application Development Project (01076120), Computer Engineering 60 at KMITL.
 
