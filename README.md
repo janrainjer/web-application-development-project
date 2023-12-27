@@ -10,17 +10,11 @@
 # Web Application Development - Project
 Web Application Development Project (01076120), Computer Engineering 60 at KMITL.
 
-- This repository is part of the **FAK** **SUE** **project**, which is part of software development practices, with an emphasis on design. It focuses on building **web** **applications**. Using **Vite**, **React-TypeScript**, and **Tailwind**.
-
-## Project Code - Directory 
+- This repository is **Fak** **Sue's** **project**, which is part of software development practices, It focuses on building **Web** **Applications**, and using **Vite**, **React-TypeScript**, and **Tailwind**.
+  
+## Code 
 - [Source code Frontend](fak-sue-frontend-main)
 
-## Project UI - Directory
+## Ux/Ui
 - [UI Figma](https://www.figma.com/files/project/173875689/UI---Web-dev-project?fuid=1230092627390613259)
-  
-## Member Group
-- Pannawich Wachinseadhiran
-- Piyarat Konkao
-- Phattharaphorn Chandecha
-- Rosesarin Niyomsantisuk
-- Woraphon Rangsi
+
