@@ -10,7 +10,7 @@
 # Web Application Development - Project
 Web Application Development Project (01076120), Computer Engineering 60 at KMITL.
 
-- This repository is **Fak** **Sue's** **project**, which is part of software development practices, It focuses on building **Web** **Applications**, and using **Vite**, **React-TypeScript**, and **Tailwind**.
+- This repository is **Fak** **Sue's** **project**, which is part of software development practices, It focuses on building **Web** **Applications**, and using **Vite**, **React-TypeScript**, and **Tailwind**. 
   
 ## Code 
 - [Source code Frontend](fak-sue-frontend-main)
